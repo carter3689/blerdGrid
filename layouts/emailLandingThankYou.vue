@@ -3,3 +3,4 @@
     <slot />
     <app-footer />
 </template>
+

@@ -15,7 +15,7 @@
         <div class="aspect-[1108/632] w-[69.25rem] bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-20" style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)" />
       </div>
       <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
-        <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
+        <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8 text-white">
           <!-- <img class="h-11" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&amp;shade=500" alt="Your Company" /> -->
           <div class="mt-24 sm:mt-32 lg:mt-16">
             <a href="https://www.youtube.com/channel/UCpQX28Z5Ge-y7KqRdOCKvIw" class="inline-flex space-x-6">
@@ -30,7 +30,7 @@
           <p class="mt-6 text-lg leading-8 text-gray-300">Comic Konnect is powered by "The Blerdgrid" and is the only place online bridging comics and coporate worlds. 
             With it you can enhance your comic knowledge to infinite power levels, and gain skills that can create the world you see in those pages. Join today!
           </p>
-          <iframe src="https://embeds.beehiiv.com/3dc3bf49-5679-4fbf-9f6c-cfbd471af73f?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+          <iframe src="https://embeds.beehiiv.com/3dc3bf49-5679-4fbf-9f6c-cfbd471af73f?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; color:#D4AF37;"></iframe>
         </div>
         <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
           <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
