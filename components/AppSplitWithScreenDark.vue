@@ -18,39 +18,19 @@
         <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
           <!-- <img class="h-11" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&amp;shade=500" alt="Your Company" /> -->
           <div class="mt-24 sm:mt-32 lg:mt-16">
-            <a href="#" class="inline-flex space-x-6">
-              <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-400 ring-1 ring-inset ring-indigo-500/20">Coming Soon</span>
+            <a href="https://www.youtube.com/channel/UCpQX28Z5Ge-y7KqRdOCKvIw" class="inline-flex space-x-6">
+              <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-yellow-500 ring-1 ring-inset ring-indigo-500/20">Coming Soon</span>
               <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
-                <span>Comic Konnect</span>
+                <span>The BlerdGrid</span>
                 <ChevronRightIcon class="h-5 w-5 text-gray-500" aria-hidden="true" />
               </span>
             </a>
           </div>
-          <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Learn about comics, stay updated on the latest news</h1>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Comic Konnect is powered by "The Blerdgrid". With it you can enhance your comic knowledge to infinite power levels.
-            Add to that, all the news you can possiblly handle! Join today!
+          <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Learn how comics, code, and business intersect! Oh Trust me...They do!</h1>
+          <p class="mt-6 text-lg leading-8 text-gray-300">Comic Konnect is powered by "The Blerdgrid" and is the only place online bridging comics and coporate worlds. 
+            With it you can enhance your comic knowledge to infinite power levels, and gain skills that can create the world you see in those pages. Join today!
           </p>
-          <FormKit
-            type="form"
-            id="comicKonnectSignUp"
-            :form-class="submitted ? 'hide' : 'show'"
-            submit-label="Register"
-            @submit="submitHandler"
-            :actions="false"
-            #default="{ value }"
-        >
-        <FormKit
-      type="email"
-      name="email"
-      label="Your email"
-      placeholder="jane@example.com"
-      help="What email should we use?"
-      validation="required|email"
-    />
-    <FormKit type="submit" label="Register" />
-        <pre wrap> {{  value }}</pre>
-        <pre wrap> {{  data }}</pre>
-    </FormKit>
+          <iframe src="https://embeds.beehiiv.com/3dc3bf49-5679-4fbf-9f6c-cfbd471af73f?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
         </div>
         <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
           <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">

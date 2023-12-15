@@ -8,7 +8,7 @@
           </a>
         </div>
         <div class="mt-8 md:order-1 md:mt-0">
-          <p class="text-center text-xs leading-5 text-gray-500">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+          <p class="text-center text-xs leading-5 text-gray-500">&copy; 2023 BlerdGrid Media, Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -20,7 +20,7 @@
   const navigation = [
     {
       name: 'Facebook',
-      href: '#',
+      href: 'https://www.facebook.com/BlerdGrammer',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -34,7 +34,7 @@
     },
     {
       name: 'Instagram',
-      href: '#',
+      href: 'https://www.instagram.com/blerdgrammer/',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -48,7 +48,7 @@
     },
     {
       name: 'Twitter',
-      href: '#',
+      href: 'https://twitter.com/BlerdGrammer',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -60,7 +60,7 @@
     },
     {
       name: 'GitHub',
-      href: '#',
+      href: 'https://github.com/carter3689',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -74,7 +74,7 @@
     },
     {
       name: 'YouTube',
-      href: '#',
+      href: 'https://www.youtube.com/channel/UCpQX28Z5Ge-y7KqRdOCKvIw',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
